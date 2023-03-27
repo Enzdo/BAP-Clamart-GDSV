@@ -6,7 +6,9 @@ Ce projet est composé d'une page d'accueil qui vise à promouvoir l'initiative 
 ### Enzo
 - Création des maquettes des mails sur 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) (<a href="">lien des maquettes</a>)
 - Réalisation des mails avec la techno MJML 
+
 ### Marc 
+- Page de Vote pour les projets créer par les utilisateurs (Partie de Bastien). Voici les maquettes : ![Figma](https://www.figma.com/file/MHaKsRKWgqpxZXN1vQZ0e9/BAP---Clamart---UP-VOTE?node-id=0%3A1&t=nKsPuzbexqcfgwjd-1) (<a href="">lien des maquettes</a>)
 
 ### Bastien 
 
