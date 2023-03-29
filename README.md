@@ -4,7 +4,7 @@
 Ce projet est composé d'une page d'accueil qui vise à promouvoir l'initiative "Grandir dans sa ville" de la ville de Clamart, ainsi que de quatre mini-projets bonus créés par notre équipe de développeurs. Les quatre projets supplémentaires ont été réalisés individuellement, tandis que la page d'accueil a été conçue en équipe.
 ## Fonctionnalités/Créations 
 ### Enzo
-- Création des maquettes des mails sur 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) (<a href="">lien des maquettes</a>)
+- Création des maquettes des mails sur 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) (<a href="https://www.figma.com/file/ncKjjPn7OwmYAONEWD8ZTn/MJML-Maquettes-mails?node-id=0%3A1&t=hVgj6gLE8w8XBJkV-1">lien des maquettes</a>)
 - Réalisation des mails avec la techno MJML 
 
 ### Marc 
