@@ -11,6 +11,8 @@ Ce projet est composé d'une page d'accueil qui vise à promouvoir l'initiative 
 - Page de Vote pour les projets créer par les utilisateurs (Partie de Bastien). Voici les maquettes : ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) (<a href="https://www.figma.com/file/MHaKsRKWgqpxZXN1vQZ0e9/BAP---Clamart---UP-VOTE?node-id=0%3A1&t=nKsPuzbexqcfgwjd-1">lien des maquettes</a>)
 
 ### Bastien 
+- Page add project. pour donner la posibiliée au user de poseter leur projet.
+- lien des maquette ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) :(<a href="[https://www.figma.com/file/MHaKsRKWgqpxZXN1vQZ0e9/BAP---Clamart---UP-VOTE?node-id=0%3A1&t=nKsPuzbexqcfgwjd-1](https://www.figma.com/file/FhFRMaXROrrhlw1cRMsyFV/Clamar-add-Project?node-id=0%3A1&t=8NYHwqfhHImhmd2n-1)">lien des maquettes</a>) 
 
 ### Mathis
 
