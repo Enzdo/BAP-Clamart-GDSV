@@ -12,7 +12,7 @@ Ce projet est composé d'une page d'accueil qui vise à promouvoir l'initiative 
 
 ### Bastien 
 - Page add project. pour donner la possibilité au user de poster leur projet.
-- lien des maquette ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) :(<a href="[https://www.figma.com/file/MHaKsRKWgqpxZXN1vQZ0e9/BAP---Clamart---UP-VOTE?node-id=0%3A1&t=nKsPuzbexqcfgwjd-1](https://www.figma.com/file/FhFRMaXROrrhlw1cRMsyFV/Clamar-add-Project?node-id=0%3A1&t=8NYHwqfhHImhmd2n-1)">lien des maquettes</a>) 
+- lien des maquette ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) :(<a href="https://www.figma.com/file/FhFRMaXROrrhlw1cRMsyFV/Clamar-add-Project?node-id=0%3A1&t=2dJTw74bkykcFsS8-1">lien des maquettes</a>)
 
 ### Mathis
 
